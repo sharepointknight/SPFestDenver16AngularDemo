@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Bands" OnQuickLaunch="TRUE" TemplateType="100" Url="Lists/Bands" Description="">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Metallica</Field>
+          <Field Name="Category1">Rock</Field>
+          <Field Name="ImageUrl">http://images5.fanpop.com/image/photos/30200000/MEALLICA-metallica-30286045-1024-768.jpg</Field>
+          <Field Name="Description1">Metallica is an American heavy metal band formed in Los Angeles, California. Metallica was formed in 1981 when vocalist/guitarist James Hetfield responded to an advertisement posted by drummer Lars Ulrich in a local newspaper. The band's current line-up comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Lead guitarist Dave Mustaine and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band. Metallica collaborated over a long period with producer Bob Rock, who produced all of the band's albums from 1990 to 2003 and served as a temporary bassist between the departure of Newsted and the hiring of Trujillo.</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Shania Twain</Field>
+          <Field Name="Category1">Country</Field>
+          <Field Name="ImageUrl">http://www.shaniatwaincity.com/CD_Covers/GreatestHitsCover.jpg</Field>
+          <Field Name="Description1">Shania Twain is a Canadian singer and songwriter. Twain has sold over 85 million records, making her one of the world's best-selling artists of all time. She is also the best selling female artist in the history of country music,[3] which garnered her honorific titles including the "Queen of Country Pop".</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Daft Punk</Field>
+          <Field Name="Category1">Techno</Field>
+          <Field Name="ImageUrl">https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Daftpunklapremiere2010.jpg/450px-Daftpunklapremiere2010.jpg</Field>
+          <Field Name="Description1">Daft Punk are an electronic music duo consisting of French musicians Guy-Manuel de Homem-Christo and Thomas Bangalter. The duo achieved significant popularity in the late 1990s as part of the French house movement and were met with continued success in the years following, combining elements of house music with funk, techno, disco, rock, and synthpop. The are also known for their visual stylization and disguises associated with their music; specifically, the duo have worn ornate helmets and gloves to assume robot personas in most of their public appearances since 2001. They rarely grant interviews or appear on television.</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="a0512aa5-6275-44ce-869b-b2cd9dfa5ea7" 
+        solutionId="a0512aa5-6275-44ce-869b-b2cd9dfa5ea7" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPFestDenver16AngularDemo"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="0fcc8272-9257-43a6-868f-a5ac36b0e362" />
+  </features>
+</package>

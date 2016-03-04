@@ -1,0 +1,1 @@
+c:\users\ryan\documents\visual studio 2015\Projects\SPFestDenver16AngularDemo\bin\Debug\app.publish\1.0.0.0\SPFestDenver16AngularDemo.app
